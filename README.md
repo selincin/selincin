@@ -1,4 +1,4 @@
-# Hi, I'm Selin 👋🏽
+# Hi, I'm Selin
 
 **UI Designer & Frontend Developer** with a background in communication design.
 
@@ -14,6 +14,7 @@ I bridge the gap between design and development: building interfaces that are vi
 
 ### Languages & Tools
 
-![Vue](https://skillicons.dev/icons?i=vue,angular,ts,js,html,css,sass,git,figma,supabase,vite,vscode)
+![Vue](https://skillicons.dev/icons?i=vue,angular,ts,js,html,css,sass)
+<img src="https://skillicons.dev/icons?i=vue,angular,ts,js,html,css,sass" height="32" alt="Vue, Angular, TypeScript, JavaScript, HTML, CSS, Sass" />
 
 **Also working with:** Pinia · RxJS · PrimeVue · Ionic · Capacitor
