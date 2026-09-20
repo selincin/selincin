@@ -8,7 +8,7 @@ I bridge the gap between design and development: building interfaces that are vi
 
 ### What I do
 
-- **Frontend Development:** mainly **Vue 3** (Composition API) and **Angular**, written in TypeScript
+- **Frontend Development:** **Vue 3** and **Angular**, written in TypeScript
 - **UI/UX Design:** user-centered interfaces, layouts, design systems and prototyping
 - **Design–Dev Collaboration:** turning designs into clean, accessible and maintainable components
 
